@@ -1,0 +1,15 @@
+L01,Mesa,1630.56,15
+L02,Silla,570.00,46
+L03,Escritorio,1085.98,23
+L04,Cama,986.75,7
+E05,Cuaderno,50.00,20
+E06,Lapiz,3.50,200
+E07,Laptop,7500.00,5
+E08,Borrador,5.00,150
+L09,Shampoo,60.00,75
+L10,Jabon,20.00,100
+L11,Estropajo,35.00,25
+L12,Crema,50.45,45
+H13,Lampara,1740.00,17
+A14,Cereal,76.23,78
+A15,Galletas,25.45,69
